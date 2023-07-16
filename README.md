@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project provides api services to create company and it's employees.
+This project provides API services to create and read company and its employees.
 
 ### Tech Stack
 
