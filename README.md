@@ -12,6 +12,7 @@ This project provides api services to create company and it's employees.
 * Kotlin
 * OpenApi
 * Docker & Docker Compose
+* Postgres
 
 ### Run & Build
 
